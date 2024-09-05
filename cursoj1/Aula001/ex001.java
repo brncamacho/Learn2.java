@@ -4,18 +4,18 @@ package Aula001;
 import java.util.Scanner;
 
 
-public class ex001 {
+public class Ex001 {
 
  
     public static void main(String[] args) {
         // Linha de comentário
         /*
         1 Linha
-        2 Linhas
+        2 Linhas 
         */
         
         /* A classe scanner é uma classe interna no Java usada 
-        para leitura
+        para leitura.
         */
         int x=0, y=0;
         

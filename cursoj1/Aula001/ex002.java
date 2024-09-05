@@ -5,11 +5,11 @@ import javax.swing.JOptionPane;
 
 /*
 showInputDialog - É a caixa de diálogo para a leitura - JOptionPane
-showMessageDialog - Usado para escrita
-try...catch - 
+showMessageDialog - Usado para escrita.
+try...catch -  
 */
 
-public class ex002 {
+public class Ex002 {
 
  
     public static void main(String[] args) {

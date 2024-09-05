@@ -6,13 +6,13 @@ import javax.swing.JOptionPane;
 
 /*
 Solicitar ao utilizador um valor em polegadas e converter em milimetros
-sabendo que 1 pol = 25,4mm
+sabendo que 1 pol = 25,4mm.
 DecimalFormat;
 # - digito opcional
-0 - digito obrigatório
+0 - digito obrigatório 
 */
 
-public class ex004 {
+public class Ex004 {
 
  
     public static void main(String[] args) {

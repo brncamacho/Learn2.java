@@ -4,10 +4,10 @@ package Aula001;
 import javax.swing.JOptionPane;
 
 /*
-Solicitar ao utilizador 2 nomes e verificar se são iguais
+Solicitar ao utilizador 2 nomes e verificar se são iguais. 
 */
 
-public class ex003 {
+public class Ex003 {
 
  
     public static void main(String[] args) {
